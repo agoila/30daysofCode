@@ -5,6 +5,6 @@
 
 The tutorial is Java-based, but you can also choose other popular languages to submit your solution. Topics include if-else statements, recursion, data structures and more.
 
-[Day 0: Hello World]
+[Day 0: Hello World]()
   * [Tutorial]()
   * [Problem]()
