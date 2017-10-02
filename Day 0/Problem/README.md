@@ -20,7 +20,7 @@ Print `Hello, World.` on the first line, and the contents of *inputString* on th
 `Welcome to 30 Days of Code!`
 
 ## Sample Output
-`Hello, World.`\\
+`Hello, World.`
 `Welcome to 30 Days of Code!`
 
 ## Explanation
