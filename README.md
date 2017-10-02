@@ -5,6 +5,6 @@
 
 The tutorial is Java-based, but you can also choose other popular languages to submit your solution. Topics include if-else statements, recursion, data structures and more.
 
-[Day 0: Hello World]()
-  * [Tutorial]()
-  * [Problem]()
+[Day 0: Hello World](https://github.com/agoila/30daysofCode/tree/master/Day%200)
+  * [Tutorial](https://github.com/agoila/30daysofCode/tree/master/Day%200/Tutorial)
+  * [Problem](https://github.com/agoila/30daysofCode/tree/master/Day%200/Problem)
