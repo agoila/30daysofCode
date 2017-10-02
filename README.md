@@ -8,3 +8,7 @@ The tutorial is Java-based, but you can also choose other popular languages to s
 [Day 0: Hello World](https://github.com/agoila/30daysofCode/tree/master/Day%200)
   * [Tutorial](https://github.com/agoila/30daysofCode/tree/master/Day%200/Tutorial)
   * [Problem](https://github.com/agoila/30daysofCode/tree/master/Day%200/Problem)
+  
+[Day 1: Data Types](https://github.com/agoila/30daysofCode/tree/master/Day%201)
+  * [Tutorial](https://github.com/agoila/30daysofCode/tree/master/Day%201/Tutorial)
+  * [Problem](https://github.com/agoila/30daysofCode/tree/master/Day%201/Problem)
