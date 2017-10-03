@@ -13,14 +13,14 @@ The tutorial is Java-based, but you can also choose other popular languages to s
   * [Tutorial](https://github.com/agoila/30daysofCode/tree/master/Day%201/Tutorial)
   * [Problem](https://github.com/agoila/30daysofCode/tree/master/Day%201/Problem)
   
-[Day 2: ]()
+[Day 2: Operators]()
  * [Tutorial]()
  * [Problem]()
 
-[Day 3: ]()
+[Day 3: Introduction to Conditional Statements]()
  * [Tutorial]()
  * [Problem]()
  
-[Day 4: ]()
+[Day 4: Class v/s Instance]()
  * [Tutorial]()
  * [Problem]()
