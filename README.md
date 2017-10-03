@@ -12,3 +12,15 @@ The tutorial is Java-based, but you can also choose other popular languages to s
 [Day 1: Data Types](https://github.com/agoila/30daysofCode/tree/master/Day%201)
   * [Tutorial](https://github.com/agoila/30daysofCode/tree/master/Day%201/Tutorial)
   * [Problem](https://github.com/agoila/30daysofCode/tree/master/Day%201/Problem)
+  
+[Day 2: ]()
+ * [Tutorial]()
+ * [Problem]()
+
+[Day 3: ]()
+ * [Tutorial]()
+ * [Problem]()
+ 
+[Day 4: ]()
+ * [Tutorial]()
+ * [Problem]()
