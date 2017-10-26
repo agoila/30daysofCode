@@ -1,20 +1,24 @@
-i = 4
-d = 4.0
-s = 'Hacker Rank '
+#!/bin/python3
 
-# Declare second integer, double, and String variables.
+import sys
 
-# Read and save an integer, double, and String to your variables.
-var_1 = int(input())
-var_2 = float(input())
-var_3 = input()
 
-# Print the sum of both integer variables on a new line.
-print(i + var_1)
+n = int(input().strip())
+d_to_b = []
+rem = 0
+ct = 0
+inv = 0
+while n > 0:
+    rem = n % 2
+    n = n // 2
+    if rem == 1:
+        ct += 1
+        if ct >= inv:
+            inv = ct
+    else:
+        ct = 0
 
-# Print the sum of the double variables on a new line.
-print(d + var_2)
+print(inv)
+    
 
-# Concatenate and print the String variables on a new line
-# The 's' variable above should be printed first.
-print(s + var_3)
+    

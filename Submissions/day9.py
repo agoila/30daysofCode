@@ -1,20 +1,15 @@
-i = 4
-d = 4.0
-s = 'Hacker Rank '
+#!/bin/python3
 
-# Declare second integer, double, and String variables.
+import sys
 
-# Read and save an integer, double, and String to your variables.
-var_1 = int(input())
-var_2 = float(input())
-var_3 = input()
+def factorial(n):
+    # Complete this function
+    if n > 1:
+        return n * factorial(n - 1)
+    else:
+        return 1
 
-# Print the sum of both integer variables on a new line.
-print(i + var_1)
-
-# Print the sum of the double variables on a new line.
-print(d + var_2)
-
-# Concatenate and print the String variables on a new line
-# The 's' variable above should be printed first.
-print(s + var_3)
+if __name__ == "__main__":
+    n = int(input().strip())
+    result = factorial(n)
+    print(result)

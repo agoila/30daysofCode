@@ -1,20 +1,19 @@
-i = 4
-d = 4.0
-s = 'Hacker Rank '
-
-# Declare second integer, double, and String variables.
-
-# Read and save an integer, double, and String to your variables.
-var_1 = int(input())
-var_2 = float(input())
-var_3 = input()
-
-# Print the sum of both integer variables on a new line.
-print(i + var_1)
-
-# Print the sum of the double variables on a new line.
-print(d + var_2)
-
-# Concatenate and print the String variables on a new line
-# The 's' variable above should be printed first.
-print(s + var_3)
+class Person:
+    def __init__(self,initialAge):
+        # Add some more code to run some checks on initialAge
+        self.age = 0 if initialAge < 0 else initialAge
+        if initialAge < 0:
+            print('Age is not valid, setting age to 0.')
+            
+    def amIOld(self):
+        # Do some computations in here and print out the correct statement to the console
+        if self.age < 13:
+            print('You are young.')
+        elif 13 <= self.age < 18:
+            print('You are a teenager.')
+        else:
+            print('You are old.')
+        
+    def yearPasses(self):
+        # Increment the age of the person in here
+        self.age += 1

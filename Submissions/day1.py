@@ -1,6 +1,3 @@
-i = 4
-d = 4.0
-s = 'Hacker Rank '
 
 # Declare second integer, double, and String variables.
 
